@@ -1,6 +1,6 @@
 # Intro Course Project App for the iPraktikum
 
-## Problem Statement (max. 500 words)
+## Problem Statement
 
 As a home cook with a busy lifestyle, I often find it challenging to plan my meals and create a shopping list efficiently. When it comes to preparing a meal, I frequently struggle to remember the ingredients required and end up making multiple trips to the grocery store. This not only wastes my time but also results in unnecessary expenses and food wastage. To address this issue, I need a mobile application that simplifies the meal planning and shopping list creation process.
 
